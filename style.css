@@ -1,0 +1,33 @@
+.heading{
+    width: 100%;
+    font-size: 25px;
+    margin: 0px;
+}
+.note{
+    font-size: 15px;
+    background-color: rgb(17, 64, 121);
+    border-radius: 15px;
+    padding: 20px;
+}
+body{
+    background-size: cover;
+}
+.divspeed{
+    float: left
+}
+.speedimg{
+    width: 200px;
+    border-radius: 100px;
+}
+.divvol{
+    float: right;
+}
+.voldimg{
+    width: 200px;
+    border-radius:100px ;
+}
+canvas{
+    border : 5px solid whitesmoke;
+    margin-top: 50px;
+    
+}
